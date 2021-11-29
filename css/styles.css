@@ -1,0 +1,32 @@
+a {
+    color: rgb(25, 39, 235);
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+ .centy { 
+    text-align: center;
+}
+
+body {
+    border: solid;
+    font-family: Helvetica;
+    padding: 20px;
+    background-color: #f3f7f5;
+    line-height: 1.4em;
+}
+img {
+    object-fit: contain;
+}
+  
+  .names {
+    text-align: center;
+    word-spacing: 5.1em;
+    
+}
+  
+  
+  
