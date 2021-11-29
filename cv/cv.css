@@ -1,0 +1,52 @@
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color : PeachPuff ;
+	padding : 5 px;
+	border: 20px solid white;
+    width: 50%;
+    margin: 30px auto;
+}
+nav {
+	word-spacing: 5.1em;
+	text-align: center;
+	background-color: #E8D7FF;
+    padding: 10px;
+    margin: 0px;
+}
+h1 {
+  color : #DC143C;
+  text-align: center;
+  font-size: 48px;
+  letter-spacing: 0.08em;
+  word-spacing: 1.1em;
+}
+  
+p {
+    color: #00008B;
+    line-height: 1.4em;
+	margin: 5px;
+}
+a {
+    color: teal;
+    font-weight: 600;   /* it can be "bold" or "normal" */
+	text-decoration: none;   /* it can be "underline" or "line-through" or "wavy underline" */
+}
+
+a:hover {
+    color: #151814;
+    background-color: #DFFFD6;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+a:active {
+    background-color: #F3FFE1;
+}
+
+.warning {
+    background-color: orange;
+}
+#intro {
+    color: blue;
+}
